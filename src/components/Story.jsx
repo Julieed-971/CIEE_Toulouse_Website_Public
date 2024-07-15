@@ -1,6 +1,6 @@
 const Story = () => {
     return (
-        <div id="Story" className="section">
+        <div className="section">
             <div className="container">
                 <div className="columns is-centered">
                     <div className="column is-6">

@@ -22,8 +22,9 @@ function App() {
           </a>
         </div>
         </header>
-        
+        <div id="Story" className="section">
         <Story />
+        </div>
         <Footer />
     </div>
   );
