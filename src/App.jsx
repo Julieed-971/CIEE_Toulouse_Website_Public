@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import cover from './assets/images/cover.png';
 import Story from './components/Story';
+import Features from './components/Features';
 
 function App() {
   return (
@@ -24,6 +25,8 @@ function App() {
         </header>
         <div id="Story" className="section">
         <Story />
+        </div><div id="Features" className="section">
+        <Features />
         </div>
         <Footer />
     </div>

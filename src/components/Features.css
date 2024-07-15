@@ -1,0 +1,31 @@
+.feature-item .feature-image-container {
+	position: relative;
+	width: 100%;
+	cursor: pointer;
+}
+
+.feature-item .feature-image {
+	width: 100%;
+	display: block;
+}
+
+.feature-item .feature-description {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+	text-align: center;
+	padding: 10px;
+}
+
+.feature-item .feature-image-container:hover .feature-description {
+	opacity: 1;
+}

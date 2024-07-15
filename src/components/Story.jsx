@@ -34,7 +34,7 @@ const Story = () => {
                         </p>
                         <h2>Building the project</h2>
                         <p className="is-size-5 has-text-justified">
-                            The building process is divided into these parts
+                            The building process is divided into the following parts:
                             <ol>
                                 <li>Design the database</li>
                                 <li>Build python classes with SQLAlchemy</li>
@@ -42,6 +42,18 @@ const Story = () => {
                                 <li>Build the front-end with React</li>
                                 <li>Style the frontend with Bulma</li>
                             </ol>
+                        </p>
+                        <h2>What's next</h2>
+                        <p className="is-size-5 has-text-justified">
+                            <ul>
+                                <li>Learn more about GDPR regulation</li>
+                                <li>Implement incremental backups, automatic data deletion and complete data encryption</li>
+                                <li>Implement any other necessary security</li>
+                                <li>Add a features for host families to position themselves to specific chosen program</li>
+                                <li>Create user roles and permissions in the database</li>
+                                <li>Manage user role in the application</li>
+                                <li>Build the staff admin interface and data extraction and/or dashboard</li>
+                            </ul>
                         </p>
                         </div>
                     </div>

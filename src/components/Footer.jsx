@@ -2,13 +2,11 @@
 const Footer = () => {
 
 	return (
-		<footer className="footer is-align-items-center" style={{ 
+		<footer className="footer" style={{ 
+            display: "flex",
+            justifyContent: "center",
 			'--bulma-footer-padding': '0.2rem 1.5rem 3rem' }}>
-            <section style={{
-                height: "20px",
-                display: "flex",
-                justifyContent: "center",
-                }}>
+            <section>
             <div>© Copyright 2024 Julie Dedieu - All Rights Reserved</div>
             </section>
 		</footer>
