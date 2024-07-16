@@ -48,7 +48,7 @@ const About = () => {
                                         <h1 style={{ padding: "10px" }}>Follow me!</h1>
                                     </div>
                                     <div className="content is-size-6 has-text-justified">
-                                        <a href="https://github.com/Julieed-971/CIEE_Toulouse_website"
+                                        <a href="https://github.com/Julieed-971/"
                                         target="_blank"
                                         rel="noopener noreferrer" style={{ margin: "20px" }}>
                                         <i className="fab fa-github" style={{ margin: "20px" }}></i>
