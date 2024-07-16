@@ -1,14 +1,23 @@
 {
   "files": {
-    "main.css": "/landing_page/static/css/main.02f6da50.css",
-    "main.js": "/landing_page/static/js/main.23051764.js",
+    "main.css": "/landing_page/static/css/main.16a0efc3.css",
+    "main.js": "/landing_page/static/js/main.ac83765d.js",
+    "static/media/contact_us.png": "/landing_page/static/media/contact_us.31110e8cbe34d23dc78c.png",
     "static/media/cover.png": "/landing_page/static/media/cover.9fc2d48a7f4484673708.png",
+    "static/media/host_family.png": "/landing_page/static/media/host_family.62933f2ec057ce037d72.png",
+    "static/media/registration.png": "/landing_page/static/media/registration.05a707d11648e3713dd8.png",
+    "static/media/form_completed2.png": "/landing_page/static/media/form_completed2.38b2796ae9ee84d2e175.png",
+    "static/media/delete_parent.png": "/landing_page/static/media/delete_parent.aa4f059375ff72e45c44.png",
+    "static/media/form2.png": "/landing_page/static/media/form2.092b3025aa4dc9fd8784.png",
+    "static/media/form_completed1.png": "/landing_page/static/media/form_completed1.dde83b1d19c99a7c5686.png",
+    "static/media/modify_parent.png": "/landing_page/static/media/modify_parent.324ec0b89538c3cf3ca8.png",
+    "static/media/form1.png": "/landing_page/static/media/form1.cdf0648b5e04aedcd514.png",
     "index.html": "/landing_page/index.html",
-    "main.02f6da50.css.map": "/landing_page/static/css/main.02f6da50.css.map",
-    "main.23051764.js.map": "/landing_page/static/js/main.23051764.js.map"
+    "main.16a0efc3.css.map": "/landing_page/static/css/main.16a0efc3.css.map",
+    "main.ac83765d.js.map": "/landing_page/static/js/main.ac83765d.js.map"
   },
   "entrypoints": [
-    "static/css/main.02f6da50.css",
-    "static/js/main.23051764.js"
+    "static/css/main.16a0efc3.css",
+    "static/js/main.ac83765d.js"
   ]
 }
