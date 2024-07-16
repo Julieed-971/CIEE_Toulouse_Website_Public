@@ -12,7 +12,7 @@ import contact_us from "../assets/images/contact_us.png"
 
 const Features = () => {
     return (
-        <section id="Features" className="section">
+        <section className="section" style={{ padding: "30px" }}>
             <div className="container">
             <h1 className="title is-1">Some Features</h1>
                 <div className="columns is-centered" style={{ display: "flex", flexWrap: "wrap" }}>

@@ -6,7 +6,7 @@ const Navbar = () => {
         <nav className="navbar is-fixed-top is-transparent" role="navigation" aria-label="main navigation" style={{ height: '30px' }}>
             <div className="navbar-menu is-size-5" style={{ display: "flex", justifyContent: "center" }}>
             <div className="navbar-item">
-            <a href="/landing_page">Home</a>
+            <a href="/landing_page/#Home">Home</a>
             </div>
             <div className="navbar-item">
             <a href="/landing_page/#Story">Project story</a>

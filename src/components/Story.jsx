@@ -1,6 +1,6 @@
 const Story = () => {
     return (
-        <div className="section">
+        <div className="section" style={{ padding: "30px" }}>
             <div className="container">
                 <div className="columns is-centered">
                     <div className="column is-6">
@@ -18,7 +18,7 @@ const Story = () => {
                             </p>
                         <h2>Respond to a real need</h2>
                         <p className="is-size-5 has-text-justified">
-                            The process was very manual and time consuming.
+                            The host families recruitment process was very manual, time consuming and prone to mistakes.
                             Inspired by Seville's center website, 
                             which is the sole example of a site center 
                             among the 40 centers in the world, 
@@ -30,7 +30,7 @@ const Story = () => {
                             As I am new in the world of web development, I spent plenty of time 
                             reading former students portfolios project blogs, learn about tools and technologies.
                             From that inspiration as well as knowledge and skills acquired during the past months at Holberton School, 
-                            I designed a relatively simple website with a few features.
+                            I designed a relatively simple single page application with a few features.
                         </p>
                         <h2>Building the project</h2>
                         <p className="is-size-5 has-text-justified">
