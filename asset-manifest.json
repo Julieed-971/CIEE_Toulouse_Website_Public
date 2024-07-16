@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/landing_page/static/css/main.16a0efc3.css",
-    "main.js": "/landing_page/static/js/main.ac83765d.js",
+    "main.js": "/landing_page/static/js/main.c664a9a5.js",
     "static/media/contact_us.png": "/landing_page/static/media/contact_us.31110e8cbe34d23dc78c.png",
     "static/media/cover.png": "/landing_page/static/media/cover.9fc2d48a7f4484673708.png",
     "static/media/host_family.png": "/landing_page/static/media/host_family.62933f2ec057ce037d72.png",
+    "static/media/avatar2.png": "/landing_page/static/media/avatar2.ff3e731ba6b64117821c.png",
     "static/media/registration.png": "/landing_page/static/media/registration.05a707d11648e3713dd8.png",
     "static/media/form_completed2.png": "/landing_page/static/media/form_completed2.38b2796ae9ee84d2e175.png",
     "static/media/delete_parent.png": "/landing_page/static/media/delete_parent.aa4f059375ff72e45c44.png",
@@ -14,10 +15,10 @@
     "static/media/form1.png": "/landing_page/static/media/form1.cdf0648b5e04aedcd514.png",
     "index.html": "/landing_page/index.html",
     "main.16a0efc3.css.map": "/landing_page/static/css/main.16a0efc3.css.map",
-    "main.ac83765d.js.map": "/landing_page/static/js/main.ac83765d.js.map"
+    "main.c664a9a5.js.map": "/landing_page/static/js/main.c664a9a5.js.map"
   },
   "entrypoints": [
     "static/css/main.16a0efc3.css",
-    "static/js/main.ac83765d.js"
+    "static/js/main.c664a9a5.js"
   ]
 }
