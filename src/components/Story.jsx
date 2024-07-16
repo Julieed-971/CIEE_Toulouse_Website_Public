@@ -14,14 +14,14 @@ const Story = () => {
                             The idea for this project emerged before entering the school. 
                             As I previously worked as a program coordinator in a study abroad center
                             welcoming students from the united states,
-                            we were in charge of host families recruitment.
+                            I was, along with colleagues and among other tasks, in charge of host families recruitment.
                             </p>
                         <h2>Respond to a real need</h2>
                         <p className="is-size-5 has-text-justified">
                             The host families recruitment process was very manual, time consuming and prone to mistakes.
                             Inspired by Seville's center website, 
                             which is the sole example of a site center 
-                            among the 40 centers in the world, 
+                            among the 40 CIEE centers in the world, 
                             I decided to create a website for CIEE Toulouse center
                             focusing on the most crucial aspect first.
                         </p>
@@ -51,7 +51,7 @@ const Story = () => {
                                 <li>Implement any other necessary security</li>
                                 <li>Add a features for host families to position themselves to specific chosen program</li>
                                 <li>Create user roles and permissions in the database</li>
-                                <li>Manage user role in the application</li>
+                                <li>Manage user roles in the application</li>
                                 <li>Build the staff admin interface and data extraction and/or dashboard</li>
                             </ul>
                         </p>
