@@ -272,7 +272,7 @@ The project landing page:
 [linkedin-url]: https://linkedin.com/in/julie-dedieu-a5404394
 [medium-shield]: https://img.shields.io/badge/Medium-20232A?style=for-the-badge&logo=medium&logoColor=white
 [medium-url]: https://medium.com/@julie.dedieu1/my-portfolio-project-a-single-page-application-prototype-for-ciee-toulouse-center-28e065b46e67
-[product-screenshot]: images/cover.png
+[product-screenshot]: /src/assets/images/cover.png
 [github-shield]: https://img.shields.io/badge/github-20232A.svg?style=for-the-badge&logo=github&logoColor=white
 [public-github-url]: https://github.com/Julieed-971/CIEE_Toulouse_Website_Public
 [private-github-url]: https://github.com/Julieed-971/CIEE_Toulouse_website
