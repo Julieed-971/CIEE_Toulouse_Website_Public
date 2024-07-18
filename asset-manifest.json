@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CIEE_Toulouse_Website_Public/static/css/main.16a0efc3.css",
-    "main.js": "/CIEE_Toulouse_Website_Public/static/js/main.1c1660ec.js",
+    "main.js": "/CIEE_Toulouse_Website_Public/static/js/main.2ef5be6e.js",
     "static/media/contact_us.png": "/CIEE_Toulouse_Website_Public/static/media/contact_us.31110e8cbe34d23dc78c.png",
     "static/media/cover.png": "/CIEE_Toulouse_Website_Public/static/media/cover.9fc2d48a7f4484673708.png",
     "static/media/host_family.png": "/CIEE_Toulouse_Website_Public/static/media/host_family.62933f2ec057ce037d72.png",
@@ -15,10 +15,10 @@
     "static/media/form1.png": "/CIEE_Toulouse_Website_Public/static/media/form1.cdf0648b5e04aedcd514.png",
     "index.html": "/CIEE_Toulouse_Website_Public/index.html",
     "main.16a0efc3.css.map": "/CIEE_Toulouse_Website_Public/static/css/main.16a0efc3.css.map",
-    "main.1c1660ec.js.map": "/CIEE_Toulouse_Website_Public/static/js/main.1c1660ec.js.map"
+    "main.2ef5be6e.js.map": "/CIEE_Toulouse_Website_Public/static/js/main.2ef5be6e.js.map"
   },
   "entrypoints": [
     "static/css/main.16a0efc3.css",
-    "static/js/main.1c1660ec.js"
+    "static/js/main.2ef5be6e.js"
   ]
 }
