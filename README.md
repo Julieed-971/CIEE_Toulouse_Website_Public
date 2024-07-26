@@ -100,7 +100,7 @@
 
 **Homepage**
 
-On the homepage, user can navigate to different pages according to its interests
+On the homepage, user can navigate to different pages according to their interests
 
 <div align="center">
   <a href="/src/assets/images/homepage.png">
