@@ -15,7 +15,7 @@ function App() {
               <img src={cover} alt='cover' style={{ width: "100vw", height: "auto" }}/>
         </div>
         <div style={{ display: "flex", justifyContent: "center", padding: "15px" }}>
-          <a href="https://github.com/Julieed-971/CIEE_Toulouse_website"
+          <a href="https://github.com/Julieed-971/CIEE_Toulouse_Website_Public"
           target="_blank"
           rel="noopener noreferrer"
           className="button is-link is-large is-size-5"
